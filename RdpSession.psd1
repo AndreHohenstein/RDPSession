@@ -134,7 +134,7 @@ PrivateData = @{
             ReleaseNotes = '
 
 1.0.1
-    Initial .ps1 script version of Diag-V.
+    Initial .ps1 script version of RdpSession.
 '
 
 
