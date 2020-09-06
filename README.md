@@ -1,6 +1,6 @@
 # RdpSession
 Automatic Log in to your Server via Remote Desktop Protocol (RDP) with PowerShell
-<#
+
 .Synopsis
     Connect RDP from PowerShell
 .DESCRIPTION
@@ -13,4 +13,4 @@ Automatic Log in to your Server via Remote Desktop Protocol (RDP) with PowerShel
     
 .COMPONENT
     RdpSession - https://github.com/AndreHohenstein/RdpSession
-#>
+
